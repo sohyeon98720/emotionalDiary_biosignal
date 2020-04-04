@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sohyeon.emotionaldiary">
+
+     <!--카메라권한설정-->
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <!--블루투스기기연결-->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/heartkiller_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RealMainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".SubActivity">
+
+        </activity>
+
+
+        <activity android:name=".NewSubActivity">
+
+        </activity>
+
+
+        <activity android:name=".EmotionActivity">
+
+        </activity>
+
+
+        <activity android:name=".Emotion_Happy">
+
+        </activity>
+
+
+        <activity android:name=".Emotion_Mad">
+
+        </activity>
+
+
+        <activity android:name=".Emotion_Sadness">
+
+        </activity>
+
+
+        <activity android:name=".Emotion_Calmness">
+
+        </activity>
+
+        <activity android:name=".CalenderActivity">
+
+        </activity>
+
+        <activity android:name=".HomeActivity">
+
+        </activity>
+
+        <activity android:name=".ShowCalenderActivity">
+
+        </activity>
+
+
+        <activity
+            android:name=".biosignal.clientutils.DeviceListActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+
+        <activity android:name=".MainActivity">
+
+        </activity>
+
+        <service
+            android:name=".biosignal.service.BiosignalService"
+            android:enabled="true" >
+            <meta-data
+                android:name="background"
+                android:value="true" />
+        </service>
+
+
+    </application>
+
+</manifest>

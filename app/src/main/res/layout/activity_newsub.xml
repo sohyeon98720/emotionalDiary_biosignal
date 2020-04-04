@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button4"
+        android:background="@drawable/menu"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:layout_x="80dp"
+        android:layout_y="100dp"
+        />
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:background="@drawable/back"
+        />
+
+    <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spacing="20dp"
+        android:unselectedAlpha="0.2" />
+
+    <TextView
+        android:id="@+id/text_View"
+        android:text="Copyright c.heartkiller"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="210dp"
+        android:layout_y="480dp"
+        />
+
+
+</AbsoluteLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button android:layout_height="50dp"
+        android:layout_width="100dp"
+        android:height="90dp"
+        android:width="40dp"
+        android:layout_x="50dp"
+        android:layout_y="400dp"
+        android:background="@drawable/prev"
+        android:id="@+id/button_prev"/>
+
+    <Button android:layout_height="50dp"
+        android:layout_width="100dp"
+        android:height="90dp"
+        android:width="40dp"
+        android:layout_x="210dp"
+        android:layout_y="400dp"
+        android:background="@drawable/post"
+        android:id="@+id/button_next"
+        />
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:background="@drawable/back"
+        />
+
+    <Gallery
+        android:id="@+id/gallery1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spacing="20dp"
+        android:unselectedAlpha="0.2" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_x="0dp"
+        android:layout_y="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <TextView
+        android:id="@+id/txt_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="65dp"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:id="@+id/countimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="320dp"
+        android:layout_y="65dp"
+        android:textSize="15dp"
+        />
+
+    <Button
+        android:id="@+id/button90"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:background="@drawable/back"
+        />
+
+
+</AbsoluteLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:ignore="Deprecated">
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_x="60dp"
+        android:layout_y="200dp"
+        android:scaleY="4"
+        android:scaleX="1"
+        android:background="@drawable/happy"/>
+        />
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_x="140dp"
+        android:layout_y="200dp"
+        android:scaleY="4"
+        android:scaleX="1"
+        android:background="@drawable/sadness"/>
+        />
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_x="220dp"
+        android:layout_y="200dp"
+        android:scaleY="4"
+        android:scaleX="1"
+        android:background="@drawable/angry"/>
+        />
+
+    <Button
+        android:id="@+id/button90"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:background="@drawable/back"
+        />
+
+</AbsoluteLayout>
