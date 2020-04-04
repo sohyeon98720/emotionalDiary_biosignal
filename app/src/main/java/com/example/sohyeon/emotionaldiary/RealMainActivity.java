@@ -27,7 +27,7 @@ public class RealMainActivity extends AppCompatActivity {
             //Do Something
             @Override
             public void run() {
-                // TODO Auto-generated method stub
+//                 TODO Auto-generated method stub
                 Intent i = new Intent(act, HomeActivity.class); // xxx가 현재 activity,
                 //yyy가 이동할 activity
                 startActivity(i);
