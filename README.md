@@ -1,6 +1,6 @@
 # 심장으로 쓰는 감성일기(안드로이드+PPG센서)
 
-### 교내 COC참가(2018.08 마지막주)
+### 교내 COC참가(2018.08 마지막주 일주일간)
 
 ----------
 
@@ -14,5 +14,6 @@ __제안배경__: 기존의 일기는 번거롭고 자기 전에 쓰려고하면
 __프로젝트 내용__:
 
 1. 하드웨어:
-<img src="https://user-images.githubusercontent.com/47767202/78423848-31c61280-76a4-11ea-8301-6fe68343bd7a.png" width="40%">
-> PPG센서-
+<img src="https://user-images.githubusercontent.com/47767202/78423848-31c61280-76a4-11ea-8301-6fe68343bd7a.png" width="40%">     
+
+> PPG센서 - 
