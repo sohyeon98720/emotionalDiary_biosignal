@@ -20,7 +20,7 @@ __1. 하드웨어:__
       
 ----------------
      
-__2. 활용이론: Russell(러셀)의 감정차원모델              __                 
+__2. 활용이론:__ Russell(러셀)의 감정차원모델                                
 <img src="https://user-images.githubusercontent.com/47767202/78625822-028feb00-78c8-11ea-8f6e-aca6ffd0d4b1.png" width="70%">
 
 > 각성(Arousal), 정서(Valence)의 2개의 축을 이용하여 감정을 나타냄
@@ -29,5 +29,6 @@ __2. 활용이론: Russell(러셀)의 감정차원모델              __
 --------------
 
 
-__3. 시스템 처리 과정: __                                       
+__3. 시스템 처리과정: __                          
+
 <img src="https://user-images.githubusercontent.com/47767202/78626478-d7a69680-78c9-11ea-89e7-b9b4a5ebbe42.png" width="60%">
