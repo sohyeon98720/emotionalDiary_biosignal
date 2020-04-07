@@ -29,6 +29,5 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 --------------
 
 
-__3. 시스템 처리과정: __                          
-
+__3. 시스템 처리과정:__                          
 <img src="https://user-images.githubusercontent.com/47767202/78626478-d7a69680-78c9-11ea-89e7-b9b4a5ebbe42.png" width="60%">
