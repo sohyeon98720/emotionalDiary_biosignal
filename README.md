@@ -36,13 +36,19 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 
 
 __3. 시스템 처리과정:__         
-- 전체
-<img src="https://user-images.githubusercontent.com/47767202/78869962-56453480-7a80-11ea-8cde-888411133232.PNG" width="60%">
+- 전체                 
+<img src="https://user-images.githubusercontent.com/47767202/78869962-56453480-7a80-11ea-8cde-888411133232.PNG" width="60%">        
+
 <br>
-- 자동화 부분 데이터 플랫폼 개념도
-<img src="https://user-images.githubusercontent.com/47767202/78869804-1f6f1e80-7a80-11ea-95e3-c5198f8ce8eb.PNG" width="70%">
+
+- 자동화 부분 데이터 플랫폼 개념도        
+
+<img src="https://user-images.githubusercontent.com/47767202/78869804-1f6f1e80-7a80-11ea-95e3-c5198f8ce8eb.PNG" width="70%">   
+
 <br>
-- 수동 부분 데이터 플랫폼 개념도
-<img src="" width="40%">
+
+- 수동 부분 데이터 플랫폼 개념도           
+
+<img src="https://user-images.githubusercontent.com/47767202/78870091-8a205a00-7a80-11ea-8321-97a3ba810b90.PNG" width="70%">
 
 -------------
