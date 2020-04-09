@@ -25,7 +25,7 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 
 > 각성(Arousal), 정서(Valence)의 2개의 축을 이용하여 감정을 나타냄
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/47767202/78868961-c488f780-7a7e-11ea-9a04-04d34ad02077.PNG" width="40%">
 
@@ -35,5 +35,14 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 --------------
 
 
-__3. 시스템 처리과정:__                          
-<img src="https://user-images.githubusercontent.com/47767202/78626478-d7a69680-78c9-11ea-89e7-b9b4a5ebbe42.png" width="60%">
+__3. 시스템 처리과정:__         
+- 전체
+<img src="https://user-images.githubusercontent.com/47767202/78869962-56453480-7a80-11ea-8cde-888411133232.PNG" width="60%">
+<br>
+- 자동화 부분 데이터 플랫폼 개념도
+<img src="https://user-images.githubusercontent.com/47767202/78869804-1f6f1e80-7a80-11ea-95e3-c5198f8ce8eb.PNG" width="70%">
+<br>
+- 수동 부분 데이터 플랫폼 개념도
+<img src="" width="40%">
+
+-------------
