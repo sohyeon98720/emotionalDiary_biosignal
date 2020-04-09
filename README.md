@@ -25,6 +25,12 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 
 > 각성(Arousal), 정서(Valence)의 2개의 축을 이용하여 감정을 나타냄
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/47767202/78868961-c488f780-7a7e-11ea-9a04-04d34ad02077.PNG" width="40%">
+
+> 최대 진폭과 PPI에 따른 감정 어휘 정의
+>> 출처: 이현우, et al. Lifelogging 을 활용한 Customer Journey Map 시스템. 한국 HCI 학회 학술대회, 2016, 266-272.
 
 --------------
 
