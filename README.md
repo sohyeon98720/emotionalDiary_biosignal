@@ -1,6 +1,6 @@
 # 심장으로 쓰는 감성일기(안드로이드+PPG센서)
 
-### 교내 COC참가(2018.08 마지막주 일주일간)
+### 교내 COC참가(2018.08.27~2018.08.31)
 
 ----------
 
@@ -43,7 +43,7 @@ __3. 시스템 처리과정:__
 
 - 자동화 부분 데이터 플랫폼 개념도        
 
-<img src="https://user-images.githubusercontent.com/47767202/78869804-1f6f1e80-7a80-11ea-95e3-c5198f8ce8eb.PNG" width="70%">   
+<img src="https://user-images.githubusercontent.com/47767202/79059960-d951cf00-7cba-11ea-97ae-5e2b54ad5a3b.PNG" width="70%">   
 
 <br>
 
@@ -52,3 +52,8 @@ __3. 시스템 처리과정:__
 <img src="https://user-images.githubusercontent.com/47767202/78870091-8a205a00-7a80-11ea-8321-97a3ba810b90.PNG" width="70%">
 
 -------------
+
+__4. 사용 프로그램:__
+
+- Andrid Studio: 어플 제작
+- 
