@@ -61,3 +61,6 @@ __4. 사용 프로그램:__
 -------------
 
 __5. 결과:__
+
+- 메인화면: 사진첩(diary)로 이동하는 버튼, PPG센서와 연결 및 PPG 데이터 표시부분
+<img src="https://user-images.githubusercontent.com/47767202/79086257-6148df00-7d76-11ea-8629-a97128431ebb.PNG" width="20%">
