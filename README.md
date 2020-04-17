@@ -66,6 +66,7 @@ __5. 결과:__
 - 앱아이콘                                                             
   <img src="https://user-images.githubusercontent.com/47767202/79531199-94f47380-80ac-11ea-8c77-a5fe6390c939.png" width="20%">
   
-- 메인화면                                                    
- 사진첩(diary)로 이동하는 버튼, PPG센서와 연결 및 PPG 데이터 표시부분                                                                               
+- 메인화면: 사진첩(diary)로 이동하는 버튼, PPG센서와 연결 및 PPG 데이터 표시부분                                                             
   <img src="https://user-images.githubusercontent.com/47767202/79086257-6148df00-7d76-11ea-8629-a97128431ebb.PNG" width="20%">
+  
+- 
