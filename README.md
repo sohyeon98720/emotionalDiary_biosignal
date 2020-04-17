@@ -57,11 +57,14 @@ __3. 시스템 처리과정:__
 __4. 사용 프로그램:__
 
 - Andrid Studio: 어플 제작
-  - 사진이 그 날의 일기가 되기 때문에, 카메라의 접근성이 좋은 핸드폰에서 쉽게 사용할 수 있도록 어플리케이션을 선택하였다.
+  - 사진과 함께 그 순간의 감성을 저장하는 일기가 결과물이기 때문에, 카메라의 접근성이 좋은 핸드폰에서 쉽게 사용할 수 있도록 어플리케이션을 선택하였다.
 
 -------------
 
 __5. 결과:__
 
+- 앱아이콘:                      
+  <img src="https://user-images.githubusercontent.com/47767202/79531199-94f47380-80ac-11ea-8c77-a5fe6390c939.png" width="20%">
+  
 - 메인화면: 사진첩(diary)로 이동하는 버튼, PPG센서와 연결 및 PPG 데이터 표시부분
-<img src="https://user-images.githubusercontent.com/47767202/79086257-6148df00-7d76-11ea-8629-a97128431ebb.PNG" width="20%">
+  <img src="https://user-images.githubusercontent.com/47767202/79086257-6148df00-7d76-11ea-8629-a97128431ebb.PNG" width="20%">
