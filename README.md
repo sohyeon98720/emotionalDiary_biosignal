@@ -67,7 +67,7 @@ __5. 결과:__
   <img src="https://user-images.githubusercontent.com/47767202/79531199-94f47380-80ac-11ea-8c77-a5fe6390c939.png" width="20%">
   
 - 메인화면: 사진첩(diary)로 이동하는 버튼, PPG센서와 연결 및 PPG 데이터 표시부분                                                             
-  <img src="https://user-images.githubusercontent.com/47767202/79086257-6148df00-7d76-11ea-8629-a97128431ebb.PNG" width="20%">
+  <img src="https://user-images.githubusercontent.com/47767202/79531635-f23cf480-80ad-11ea-99f9-b10a018be3b5.JPG" width="20%">
   
 - 특별한 감성이 포착되었을때 or 수동으로 카메라 기능을 이용하고싶을때:              
   <img src="https://user-images.githubusercontent.com/47767202/79531459-5f9c5580-80ad-11ea-943b-7c5425e6a052.JPG" width="20%">
