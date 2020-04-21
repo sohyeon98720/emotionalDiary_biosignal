@@ -74,3 +74,6 @@ __5. 결과:__
   
 - 사진첩(diary)로 이동하는 버튼을 눌렀을때 > 날짜형 선택:                               
   <img src="https://user-images.githubusercontent.com/47767202/79881610-63710480-842c-11ea-87f9-c8bc82863615.JPG" width="20%">
+
+- 사진첩(diary)로 이동하는 버튼을 눌렀을때 > 감성형 선택:                                                
+  <img src="https://user-images.githubusercontent.com/47767202/79881770-9ddaa180-842c-11ea-9c1c-b8b694eabf49.JPG" width="20%">
