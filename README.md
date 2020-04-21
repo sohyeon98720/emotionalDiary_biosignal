@@ -71,3 +71,6 @@ __5. 결과:__
   
 - 특별한 감성이 포착되었을때 or 수동으로 카메라 기능을 이용하고싶을때:              
   <img src="https://user-images.githubusercontent.com/47767202/79531459-5f9c5580-80ad-11ea-943b-7c5425e6a052.JPG" width="20%">
+  
+- 사진첩(diary)로 이동하는 버튼을 눌렀을때 > 날짜형 선택:
+  <img src="https://user-images.githubusercontent.com/47767202/79881610-63710480-842c-11ea-87f9-c8bc82863615.JPG" width="20%">
