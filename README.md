@@ -33,10 +33,11 @@ __2. 활용이론:__ Russell(러셀)의 감정차원모델
 > 최대 진폭과 PPI에 따른 감정 어휘 정의
 >> 출처: 이현우, et al. Lifelogging 을 활용한 Customer Journey Map 시스템. 한국 HCI 학회 학술대회, 2016, 266-272.
 
+
 --------------
 
 
-__3. 시스템 처리과정:__         
+__3. 시스템 처리과정:__          
 - 전체                 
 <img src="https://user-images.githubusercontent.com/47767202/78869962-56453480-7a80-11ea-8cde-888411133232.PNG" width="60%">        
 
@@ -51,6 +52,10 @@ __3. 시스템 처리과정:__
 - 수동 부분 데이터 플랫폼 개념도           
 
 <img src="https://user-images.githubusercontent.com/47767202/78870091-8a205a00-7a80-11ea-8321-97a3ba810b90.PNG" width="70%">
+
+- 감성 추출 부분
+<img src="https://user-images.githubusercontent.com/47767202/80185706-bf63a500-8647-11ea-96a1-c721d10b09d0.png" width="30%">
+
 
 -------------
 
